@@ -1,0 +1,12 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosSaida\bin\Debug\netcoreapp3.1\ParametrosSaida.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosSaida\bin\Debug\netcoreapp3.1\ParametrosSaida.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosSaida\bin\Debug\netcoreapp3.1\ParametrosSaida.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosSaida\bin\Debug\netcoreapp3.1\ParametrosSaida.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosSaida\bin\Debug\netcoreapp3.1\ParametrosSaida.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosSaida\bin\Debug\netcoreapp3.1\ParametrosSaida.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosSaida\obj\Debug\netcoreapp3.1\ParametrosSaida.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosSaida\obj\Debug\netcoreapp3.1\ParametrosSaida.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosSaida\obj\Debug\netcoreapp3.1\ParametrosSaida.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosSaida\obj\Debug\netcoreapp3.1\ParametrosSaida.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosSaida\obj\Debug\netcoreapp3.1\ParametrosSaida.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosSaida\obj\Debug\netcoreapp3.1\ParametrosSaida.genruntimeconfig.cache

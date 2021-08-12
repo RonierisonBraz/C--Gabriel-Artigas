@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodoParametroTipo\bin\Debug\netcoreapp3.1\MetodoParametroTipo.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodoParametroTipo\bin\Debug\netcoreapp3.1\MetodoParametroTipo.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodoParametroTipo\bin\Debug\netcoreapp3.1\MetodoParametroTipo.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodoParametroTipo\bin\Debug\netcoreapp3.1\MetodoParametroTipo.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodoParametroTipo\bin\Debug\netcoreapp3.1\MetodoParametroTipo.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodoParametroTipo\bin\Debug\netcoreapp3.1\MetodoParametroTipo.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodoParametroTipo\obj\Debug\netcoreapp3.1\MetodoParametroTipo.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodoParametroTipo\obj\Debug\netcoreapp3.1\MetodoParametroTipo.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodoParametroTipo\obj\Debug\netcoreapp3.1\MetodoParametroTipo.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodoParametroTipo\obj\Debug\netcoreapp3.1\MetodoParametroTipo.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodoParametroTipo\obj\Debug\netcoreapp3.1\MetodoParametroTipo.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodoParametroTipo\obj\Debug\netcoreapp3.1\MetodoParametroTipo.genruntimeconfig.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodoParametroTipo\obj\Debug\netcoreapp3.1\MetodoParametroTipo.csprojAssemblyReference.cache

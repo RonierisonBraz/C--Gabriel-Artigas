@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Metodos\bin\Debug\netcoreapp3.1\Metodos.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Metodos\bin\Debug\netcoreapp3.1\Metodos.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Metodos\bin\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Metodos\bin\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Metodos\obj\Debug\netcoreapp3.1\Metodos.csprojAssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Metodos\obj\Debug\netcoreapp3.1\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Metodos\obj\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Metodos\obj\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Metodos\obj\Debug\netcoreapp3.1\Metodos.genruntimeconfig.cache

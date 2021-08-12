@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\PesquisarCaracteres\bin\Debug\netcoreapp3.1\PesquisarCaracteres.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\PesquisarCaracteres\bin\Debug\netcoreapp3.1\PesquisarCaracteres.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\PesquisarCaracteres\bin\Debug\netcoreapp3.1\PesquisarCaracteres.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\PesquisarCaracteres\bin\Debug\netcoreapp3.1\PesquisarCaracteres.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\PesquisarCaracteres\bin\Debug\netcoreapp3.1\PesquisarCaracteres.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\PesquisarCaracteres\bin\Debug\netcoreapp3.1\PesquisarCaracteres.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\PesquisarCaracteres\obj\Debug\netcoreapp3.1\PesquisarCaracteres.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\PesquisarCaracteres\obj\Debug\netcoreapp3.1\PesquisarCaracteres.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\PesquisarCaracteres\obj\Debug\netcoreapp3.1\PesquisarCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\PesquisarCaracteres\obj\Debug\netcoreapp3.1\PesquisarCaracteres.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\PesquisarCaracteres\obj\Debug\netcoreapp3.1\PesquisarCaracteres.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\PesquisarCaracteres\obj\Debug\netcoreapp3.1\PesquisarCaracteres.genruntimeconfig.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\PesquisarCaracteres\obj\Debug\netcoreapp3.1\PesquisarCaracteres.csprojAssemblyReference.cache

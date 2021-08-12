@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp3\bin\Debug\netcoreapp3.1\Verificar.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp3\bin\Debug\netcoreapp3.1\Verificar.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp3\bin\Debug\netcoreapp3.1\Verificar.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp3\bin\Debug\netcoreapp3.1\Verificar.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp3\bin\Debug\netcoreapp3.1\Verificar.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp3\bin\Debug\netcoreapp3.1\Verificar.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp3\obj\Debug\netcoreapp3.1\Verificar.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp3\obj\Debug\netcoreapp3.1\Verificar.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp3\obj\Debug\netcoreapp3.1\Verificar.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp3\obj\Debug\netcoreapp3.1\Verificar.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp3\obj\Debug\netcoreapp3.1\Verificar.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp3\obj\Debug\netcoreapp3.1\Verificar.genruntimeconfig.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp3\obj\Debug\netcoreapp3.1\Verificar.csprojAssemblyReference.cache

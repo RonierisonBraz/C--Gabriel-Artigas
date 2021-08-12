@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ForAninhado\bin\Debug\netcoreapp3.1\ForAninhado.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ForAninhado\bin\Debug\netcoreapp3.1\ForAninhado.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ForAninhado\bin\Debug\netcoreapp3.1\ForAninhado.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ForAninhado\bin\Debug\netcoreapp3.1\ForAninhado.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ForAninhado\bin\Debug\netcoreapp3.1\ForAninhado.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ForAninhado\bin\Debug\netcoreapp3.1\ForAninhado.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ForAninhado\obj\Debug\netcoreapp3.1\ForAninhado.csprojAssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ForAninhado\obj\Debug\netcoreapp3.1\ForAninhado.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ForAninhado\obj\Debug\netcoreapp3.1\ForAninhado.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ForAninhado\obj\Debug\netcoreapp3.1\ForAninhado.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ForAninhado\obj\Debug\netcoreapp3.1\ForAninhado.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ForAninhado\obj\Debug\netcoreapp3.1\ForAninhado.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ForAninhado\obj\Debug\netcoreapp3.1\ForAninhado.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DecidirERepetir\bin\Debug\netcoreapp3.1\DecidirERepetir.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DecidirERepetir\bin\Debug\netcoreapp3.1\DecidirERepetir.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DecidirERepetir\bin\Debug\netcoreapp3.1\DecidirERepetir.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DecidirERepetir\bin\Debug\netcoreapp3.1\DecidirERepetir.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DecidirERepetir\bin\Debug\netcoreapp3.1\DecidirERepetir.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DecidirERepetir\bin\Debug\netcoreapp3.1\DecidirERepetir.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DecidirERepetir\obj\Debug\netcoreapp3.1\DecidirERepetir.csprojAssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DecidirERepetir\obj\Debug\netcoreapp3.1\DecidirERepetir.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DecidirERepetir\obj\Debug\netcoreapp3.1\DecidirERepetir.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DecidirERepetir\obj\Debug\netcoreapp3.1\DecidirERepetir.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DecidirERepetir\obj\Debug\netcoreapp3.1\DecidirERepetir.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DecidirERepetir\obj\Debug\netcoreapp3.1\DecidirERepetir.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DecidirERepetir\obj\Debug\netcoreapp3.1\DecidirERepetir.genruntimeconfig.cache

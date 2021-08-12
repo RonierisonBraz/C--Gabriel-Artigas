@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp2\bin\Debug\netcoreapp3.1\EntradaNumerica.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp2\bin\Debug\netcoreapp3.1\EntradaNumerica.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp2\bin\Debug\netcoreapp3.1\EntradaNumerica.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp2\bin\Debug\netcoreapp3.1\EntradaNumerica.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp2\bin\Debug\netcoreapp3.1\EntradaNumerica.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp2\bin\Debug\netcoreapp3.1\EntradaNumerica.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp2\obj\Debug\netcoreapp3.1\EntradaNumerica.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp2\obj\Debug\netcoreapp3.1\EntradaNumerica.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp2\obj\Debug\netcoreapp3.1\EntradaNumerica.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp2\obj\Debug\netcoreapp3.1\EntradaNumerica.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp2\obj\Debug\netcoreapp3.1\EntradaNumerica.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp2\obj\Debug\netcoreapp3.1\EntradaNumerica.genruntimeconfig.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ConsoleApp2\obj\Debug\netcoreapp3.1\EntradaNumerica.csprojAssemblyReference.cache

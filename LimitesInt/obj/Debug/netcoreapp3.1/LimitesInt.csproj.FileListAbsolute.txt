@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LimitesInt\bin\Debug\netcoreapp3.1\LimitesInt.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LimitesInt\bin\Debug\netcoreapp3.1\LimitesInt.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LimitesInt\bin\Debug\netcoreapp3.1\LimitesInt.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LimitesInt\bin\Debug\netcoreapp3.1\LimitesInt.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LimitesInt\bin\Debug\netcoreapp3.1\LimitesInt.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LimitesInt\bin\Debug\netcoreapp3.1\LimitesInt.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LimitesInt\obj\Debug\netcoreapp3.1\LimitesInt.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LimitesInt\obj\Debug\netcoreapp3.1\LimitesInt.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LimitesInt\obj\Debug\netcoreapp3.1\LimitesInt.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LimitesInt\obj\Debug\netcoreapp3.1\LimitesInt.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LimitesInt\obj\Debug\netcoreapp3.1\LimitesInt.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LimitesInt\obj\Debug\netcoreapp3.1\LimitesInt.genruntimeconfig.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LimitesInt\obj\Debug\netcoreapp3.1\LimitesInt.csprojAssemblyReference.cache

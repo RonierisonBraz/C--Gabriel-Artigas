@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Decidir\bin\Debug\netcoreapp3.1\Decidir.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Decidir\bin\Debug\netcoreapp3.1\Decidir.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Decidir\bin\Debug\netcoreapp3.1\Decidir.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Decidir\bin\Debug\netcoreapp3.1\Decidir.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Decidir\bin\Debug\netcoreapp3.1\Decidir.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Decidir\bin\Debug\netcoreapp3.1\Decidir.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Decidir\obj\Debug\netcoreapp3.1\Decidir.csprojAssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Decidir\obj\Debug\netcoreapp3.1\Decidir.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Decidir\obj\Debug\netcoreapp3.1\Decidir.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Decidir\obj\Debug\netcoreapp3.1\Decidir.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Decidir\obj\Debug\netcoreapp3.1\Decidir.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Decidir\obj\Debug\netcoreapp3.1\Decidir.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Decidir\obj\Debug\netcoreapp3.1\Decidir.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDecimal\bin\Debug\netcoreapp3.1\TrabalharComDecimal.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDecimal\bin\Debug\netcoreapp3.1\TrabalharComDecimal.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDecimal\bin\Debug\netcoreapp3.1\TrabalharComDecimal.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDecimal\bin\Debug\netcoreapp3.1\TrabalharComDecimal.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDecimal\bin\Debug\netcoreapp3.1\TrabalharComDecimal.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDecimal\bin\Debug\netcoreapp3.1\TrabalharComDecimal.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDecimal\obj\Debug\netcoreapp3.1\TrabalharComDecimal.csprojAssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDecimal\obj\Debug\netcoreapp3.1\TrabalharComDecimal.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDecimal\obj\Debug\netcoreapp3.1\TrabalharComDecimal.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDecimal\obj\Debug\netcoreapp3.1\TrabalharComDecimal.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDecimal\obj\Debug\netcoreapp3.1\TrabalharComDecimal.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDecimal\obj\Debug\netcoreapp3.1\TrabalharComDecimal.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDecimal\obj\Debug\netcoreapp3.1\TrabalharComDecimal.genruntimeconfig.cache

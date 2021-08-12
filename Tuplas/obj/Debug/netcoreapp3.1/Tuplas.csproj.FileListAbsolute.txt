@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Tuplas\bin\Debug\netcoreapp3.1\Tuplas.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Tuplas\bin\Debug\netcoreapp3.1\Tuplas.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Tuplas\bin\Debug\netcoreapp3.1\Tuplas.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Tuplas\bin\Debug\netcoreapp3.1\Tuplas.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Tuplas\bin\Debug\netcoreapp3.1\Tuplas.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Tuplas\bin\Debug\netcoreapp3.1\Tuplas.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Tuplas\obj\Debug\netcoreapp3.1\Tuplas.csprojAssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Tuplas\obj\Debug\netcoreapp3.1\Tuplas.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Tuplas\obj\Debug\netcoreapp3.1\Tuplas.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Tuplas\obj\Debug\netcoreapp3.1\Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Tuplas\obj\Debug\netcoreapp3.1\Tuplas.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Tuplas\obj\Debug\netcoreapp3.1\Tuplas.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Tuplas\obj\Debug\netcoreapp3.1\Tuplas.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Anulaveis\bin\Debug\netcoreapp3.1\Anulaveis.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Anulaveis\bin\Debug\netcoreapp3.1\Anulaveis.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Anulaveis\bin\Debug\netcoreapp3.1\Anulaveis.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Anulaveis\bin\Debug\netcoreapp3.1\Anulaveis.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Anulaveis\bin\Debug\netcoreapp3.1\Anulaveis.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Anulaveis\bin\Debug\netcoreapp3.1\Anulaveis.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Anulaveis\obj\Debug\netcoreapp3.1\Anulaveis.csprojAssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Anulaveis\obj\Debug\netcoreapp3.1\Anulaveis.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Anulaveis\obj\Debug\netcoreapp3.1\Anulaveis.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Anulaveis\obj\Debug\netcoreapp3.1\Anulaveis.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Anulaveis\obj\Debug\netcoreapp3.1\Anulaveis.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Anulaveis\obj\Debug\netcoreapp3.1\Anulaveis.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Anulaveis\obj\Debug\netcoreapp3.1\Anulaveis.genruntimeconfig.cache

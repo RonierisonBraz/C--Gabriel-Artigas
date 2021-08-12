@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ArrayParametros\bin\Debug\netcoreapp3.1\ArrayParametros.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ArrayParametros\bin\Debug\netcoreapp3.1\ArrayParametros.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ArrayParametros\bin\Debug\netcoreapp3.1\ArrayParametros.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ArrayParametros\bin\Debug\netcoreapp3.1\ArrayParametros.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ArrayParametros\bin\Debug\netcoreapp3.1\ArrayParametros.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ArrayParametros\bin\Debug\netcoreapp3.1\ArrayParametros.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ArrayParametros\obj\Debug\netcoreapp3.1\ArrayParametros.csprojAssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ArrayParametros\obj\Debug\netcoreapp3.1\ArrayParametros.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ArrayParametros\obj\Debug\netcoreapp3.1\ArrayParametros.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ArrayParametros\obj\Debug\netcoreapp3.1\ArrayParametros.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ArrayParametros\obj\Debug\netcoreapp3.1\ArrayParametros.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ArrayParametros\obj\Debug\netcoreapp3.1\ArrayParametros.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ArrayParametros\obj\Debug\netcoreapp3.1\ArrayParametros.genruntimeconfig.cache

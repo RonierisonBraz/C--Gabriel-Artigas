@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListasDeOutrosTipos\bin\Debug\netcoreapp3.1\ListasDeOutrosTipos.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListasDeOutrosTipos\bin\Debug\netcoreapp3.1\ListasDeOutrosTipos.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListasDeOutrosTipos\bin\Debug\netcoreapp3.1\ListasDeOutrosTipos.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListasDeOutrosTipos\bin\Debug\netcoreapp3.1\ListasDeOutrosTipos.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListasDeOutrosTipos\bin\Debug\netcoreapp3.1\ListasDeOutrosTipos.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListasDeOutrosTipos\bin\Debug\netcoreapp3.1\ListasDeOutrosTipos.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListasDeOutrosTipos\obj\Debug\netcoreapp3.1\ListasDeOutrosTipos.csprojAssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListasDeOutrosTipos\obj\Debug\netcoreapp3.1\ListasDeOutrosTipos.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListasDeOutrosTipos\obj\Debug\netcoreapp3.1\ListasDeOutrosTipos.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListasDeOutrosTipos\obj\Debug\netcoreapp3.1\ListasDeOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListasDeOutrosTipos\obj\Debug\netcoreapp3.1\ListasDeOutrosTipos.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListasDeOutrosTipos\obj\Debug\netcoreapp3.1\ListasDeOutrosTipos.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListasDeOutrosTipos\obj\Debug\netcoreapp3.1\ListasDeOutrosTipos.genruntimeconfig.cache

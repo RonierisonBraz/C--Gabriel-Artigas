@@ -1,0 +1,12 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LoopFor\bin\Debug\netcoreapp3.1\LoopFor.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LoopFor\bin\Debug\netcoreapp3.1\LoopFor.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LoopFor\bin\Debug\netcoreapp3.1\LoopFor.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LoopFor\bin\Debug\netcoreapp3.1\LoopFor.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LoopFor\bin\Debug\netcoreapp3.1\LoopFor.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LoopFor\bin\Debug\netcoreapp3.1\LoopFor.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LoopFor\obj\Debug\netcoreapp3.1\LoopFor.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LoopFor\obj\Debug\netcoreapp3.1\LoopFor.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LoopFor\obj\Debug\netcoreapp3.1\LoopFor.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LoopFor\obj\Debug\netcoreapp3.1\LoopFor.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LoopFor\obj\Debug\netcoreapp3.1\LoopFor.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\LoopFor\obj\Debug\netcoreapp3.1\LoopFor.genruntimeconfig.cache

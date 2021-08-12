@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosRetorno\bin\Debug\netcoreapp3.1\MetodosRetorno.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosRetorno\bin\Debug\netcoreapp3.1\MetodosRetorno.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosRetorno\bin\Debug\netcoreapp3.1\MetodosRetorno.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosRetorno\bin\Debug\netcoreapp3.1\MetodosRetorno.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosRetorno\bin\Debug\netcoreapp3.1\MetodosRetorno.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosRetorno\bin\Debug\netcoreapp3.1\MetodosRetorno.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosRetorno\obj\Debug\netcoreapp3.1\MetodosRetorno.csprojAssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosRetorno\obj\Debug\netcoreapp3.1\MetodosRetorno.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosRetorno\obj\Debug\netcoreapp3.1\MetodosRetorno.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosRetorno\obj\Debug\netcoreapp3.1\MetodosRetorno.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosRetorno\obj\Debug\netcoreapp3.1\MetodosRetorno.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosRetorno\obj\Debug\netcoreapp3.1\MetodosRetorno.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosRetorno\obj\Debug\netcoreapp3.1\MetodosRetorno.genruntimeconfig.cache

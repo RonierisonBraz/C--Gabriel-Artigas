@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComInteiros\bin\Debug\netcoreapp3.1\TrabalharComInteiros.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComInteiros\bin\Debug\netcoreapp3.1\TrabalharComInteiros.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComInteiros\bin\Debug\netcoreapp3.1\TrabalharComInteiros.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComInteiros\bin\Debug\netcoreapp3.1\TrabalharComInteiros.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComInteiros\bin\Debug\netcoreapp3.1\TrabalharComInteiros.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComInteiros\bin\Debug\netcoreapp3.1\TrabalharComInteiros.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComInteiros\obj\Debug\netcoreapp3.1\TrabalharComInteiros.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComInteiros\obj\Debug\netcoreapp3.1\TrabalharComInteiros.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComInteiros\obj\Debug\netcoreapp3.1\TrabalharComInteiros.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComInteiros\obj\Debug\netcoreapp3.1\TrabalharComInteiros.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComInteiros\obj\Debug\netcoreapp3.1\TrabalharComInteiros.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComInteiros\obj\Debug\netcoreapp3.1\TrabalharComInteiros.genruntimeconfig.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComInteiros\obj\Debug\netcoreapp3.1\TrabalharComInteiros.csprojAssemblyReference.cache

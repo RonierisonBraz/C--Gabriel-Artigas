@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListTutorial\bin\Debug\netcoreapp3.1\ListTutorial.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListTutorial\bin\Debug\netcoreapp3.1\ListTutorial.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListTutorial\bin\Debug\netcoreapp3.1\ListTutorial.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListTutorial\bin\Debug\netcoreapp3.1\ListTutorial.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListTutorial\bin\Debug\netcoreapp3.1\ListTutorial.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListTutorial\bin\Debug\netcoreapp3.1\ListTutorial.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListTutorial\obj\Debug\netcoreapp3.1\ListTutorial.csprojAssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListTutorial\obj\Debug\netcoreapp3.1\ListTutorial.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListTutorial\obj\Debug\netcoreapp3.1\ListTutorial.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListTutorial\obj\Debug\netcoreapp3.1\ListTutorial.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListTutorial\obj\Debug\netcoreapp3.1\ListTutorial.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListTutorial\obj\Debug\netcoreapp3.1\ListTutorial.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ListTutorial\obj\Debug\netcoreapp3.1\ListTutorial.genruntimeconfig.cache

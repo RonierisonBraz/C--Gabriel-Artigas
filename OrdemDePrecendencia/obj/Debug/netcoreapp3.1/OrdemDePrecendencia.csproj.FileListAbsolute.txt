@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OrdemDePrecendencia\bin\Debug\netcoreapp3.1\OrdemDePrecendencia.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OrdemDePrecendencia\bin\Debug\netcoreapp3.1\OrdemDePrecendencia.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OrdemDePrecendencia\bin\Debug\netcoreapp3.1\OrdemDePrecendencia.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OrdemDePrecendencia\bin\Debug\netcoreapp3.1\OrdemDePrecendencia.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OrdemDePrecendencia\bin\Debug\netcoreapp3.1\OrdemDePrecendencia.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OrdemDePrecendencia\bin\Debug\netcoreapp3.1\OrdemDePrecendencia.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OrdemDePrecendencia\obj\Debug\netcoreapp3.1\OrdemDePrecendencia.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OrdemDePrecendencia\obj\Debug\netcoreapp3.1\OrdemDePrecendencia.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OrdemDePrecendencia\obj\Debug\netcoreapp3.1\OrdemDePrecendencia.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OrdemDePrecendencia\obj\Debug\netcoreapp3.1\OrdemDePrecendencia.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OrdemDePrecendencia\obj\Debug\netcoreapp3.1\OrdemDePrecendencia.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OrdemDePrecendencia\obj\Debug\netcoreapp3.1\OrdemDePrecendencia.genruntimeconfig.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OrdemDePrecendencia\obj\Debug\netcoreapp3.1\OrdemDePrecendencia.csprojAssemblyReference.cache

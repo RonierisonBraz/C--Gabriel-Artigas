@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDoubles\bin\Debug\netcoreapp3.1\TrabalharComDoubles.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDoubles\bin\Debug\netcoreapp3.1\TrabalharComDoubles.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDoubles\bin\Debug\netcoreapp3.1\TrabalharComDoubles.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDoubles\bin\Debug\netcoreapp3.1\TrabalharComDoubles.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDoubles\bin\Debug\netcoreapp3.1\TrabalharComDoubles.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDoubles\bin\Debug\netcoreapp3.1\TrabalharComDoubles.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDoubles\obj\Debug\netcoreapp3.1\TrabalharComDoubles.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDoubles\obj\Debug\netcoreapp3.1\TrabalharComDoubles.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDoubles\obj\Debug\netcoreapp3.1\TrabalharComDoubles.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDoubles\obj\Debug\netcoreapp3.1\TrabalharComDoubles.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDoubles\obj\Debug\netcoreapp3.1\TrabalharComDoubles.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDoubles\obj\Debug\netcoreapp3.1\TrabalharComDoubles.genruntimeconfig.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TrabalharComDoubles\obj\Debug\netcoreapp3.1\TrabalharComDoubles.csprojAssemblyReference.cache

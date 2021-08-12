@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosEstaticoseDeInstancia\bin\Debug\netcoreapp3.1\MetodosEstaticoseDeInstancia.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosEstaticoseDeInstancia\bin\Debug\netcoreapp3.1\MetodosEstaticoseDeInstancia.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosEstaticoseDeInstancia\bin\Debug\netcoreapp3.1\MetodosEstaticoseDeInstancia.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosEstaticoseDeInstancia\bin\Debug\netcoreapp3.1\MetodosEstaticoseDeInstancia.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosEstaticoseDeInstancia\bin\Debug\netcoreapp3.1\MetodosEstaticoseDeInstancia.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosEstaticoseDeInstancia\bin\Debug\netcoreapp3.1\MetodosEstaticoseDeInstancia.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosEstaticoseDeInstancia\obj\Debug\netcoreapp3.1\MetodosEstaticoseDeInstancia.csproj.AssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosEstaticoseDeInstancia\obj\Debug\netcoreapp3.1\MetodosEstaticoseDeInstancia.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosEstaticoseDeInstancia\obj\Debug\netcoreapp3.1\MetodosEstaticoseDeInstancia.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosEstaticoseDeInstancia\obj\Debug\netcoreapp3.1\MetodosEstaticoseDeInstancia.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosEstaticoseDeInstancia\obj\Debug\netcoreapp3.1\MetodosEstaticoseDeInstancia.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosEstaticoseDeInstancia\obj\Debug\netcoreapp3.1\MetodosEstaticoseDeInstancia.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosEstaticoseDeInstancia\obj\Debug\netcoreapp3.1\MetodosEstaticoseDeInstancia.genruntimeconfig.cache

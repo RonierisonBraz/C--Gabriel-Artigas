@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\CursoLinguagemCshape\bin\Debug\netcoreapp3.1\CursoLinguagemCshape.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\CursoLinguagemCshape\bin\Debug\netcoreapp3.1\CursoLinguagemCshape.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\CursoLinguagemCshape\bin\Debug\netcoreapp3.1\CursoLinguagemCshape.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\CursoLinguagemCshape\bin\Debug\netcoreapp3.1\CursoLinguagemCshape.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\CursoLinguagemCshape\bin\Debug\netcoreapp3.1\CursoLinguagemCshape.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\CursoLinguagemCshape\bin\Debug\netcoreapp3.1\CursoLinguagemCshape.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\CursoLinguagemCshape\obj\Debug\netcoreapp3.1\CursoLinguagemCshape.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\CursoLinguagemCshape\obj\Debug\netcoreapp3.1\CursoLinguagemCshape.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\CursoLinguagemCshape\obj\Debug\netcoreapp3.1\CursoLinguagemCshape.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\CursoLinguagemCshape\obj\Debug\netcoreapp3.1\CursoLinguagemCshape.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\CursoLinguagemCshape\obj\Debug\netcoreapp3.1\CursoLinguagemCshape.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\CursoLinguagemCshape\obj\Debug\netcoreapp3.1\CursoLinguagemCshape.genruntimeconfig.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\CursoLinguagemCshape\obj\Debug\netcoreapp3.1\CursoLinguagemCshape.csprojAssemblyReference.cache

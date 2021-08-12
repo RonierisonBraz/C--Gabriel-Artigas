@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosDeTipos\bin\Debug\netcoreapp3.1\ParametrosDeTipos.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosDeTipos\bin\Debug\netcoreapp3.1\ParametrosDeTipos.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosDeTipos\bin\Debug\netcoreapp3.1\ParametrosDeTipos.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosDeTipos\bin\Debug\netcoreapp3.1\ParametrosDeTipos.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosDeTipos\bin\Debug\netcoreapp3.1\ParametrosDeTipos.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosDeTipos\bin\Debug\netcoreapp3.1\ParametrosDeTipos.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosDeTipos\obj\Debug\netcoreapp3.1\ParametrosDeTipos.csprojAssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosDeTipos\obj\Debug\netcoreapp3.1\ParametrosDeTipos.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosDeTipos\obj\Debug\netcoreapp3.1\ParametrosDeTipos.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosDeTipos\obj\Debug\netcoreapp3.1\ParametrosDeTipos.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosDeTipos\obj\Debug\netcoreapp3.1\ParametrosDeTipos.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosDeTipos\obj\Debug\netcoreapp3.1\ParametrosDeTipos.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ParametrosDeTipos\obj\Debug\netcoreapp3.1\ParametrosDeTipos.genruntimeconfig.cache

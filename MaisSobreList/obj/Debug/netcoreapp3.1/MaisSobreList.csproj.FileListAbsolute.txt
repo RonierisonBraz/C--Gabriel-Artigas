@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MaisSobreList\bin\Debug\netcoreapp3.1\MaisSobreList.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MaisSobreList\bin\Debug\netcoreapp3.1\MaisSobreList.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MaisSobreList\bin\Debug\netcoreapp3.1\MaisSobreList.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MaisSobreList\bin\Debug\netcoreapp3.1\MaisSobreList.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MaisSobreList\bin\Debug\netcoreapp3.1\MaisSobreList.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MaisSobreList\bin\Debug\netcoreapp3.1\MaisSobreList.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MaisSobreList\obj\Debug\netcoreapp3.1\MaisSobreList.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MaisSobreList\obj\Debug\netcoreapp3.1\MaisSobreList.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MaisSobreList\obj\Debug\netcoreapp3.1\MaisSobreList.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MaisSobreList\obj\Debug\netcoreapp3.1\MaisSobreList.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MaisSobreList\obj\Debug\netcoreapp3.1\MaisSobreList.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MaisSobreList\obj\Debug\netcoreapp3.1\MaisSobreList.genruntimeconfig.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MaisSobreList\obj\Debug\netcoreapp3.1\MaisSobreList.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosAVS\bin\Debug\netcoreapp3.1\MetodosAVS.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosAVS\bin\Debug\netcoreapp3.1\MetodosAVS.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosAVS\bin\Debug\netcoreapp3.1\MetodosAVS.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosAVS\bin\Debug\netcoreapp3.1\MetodosAVS.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosAVS\bin\Debug\netcoreapp3.1\MetodosAVS.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosAVS\bin\Debug\netcoreapp3.1\MetodosAVS.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosAVS\obj\Debug\netcoreapp3.1\MetodosAVS.csproj.AssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosAVS\obj\Debug\netcoreapp3.1\MetodosAVS.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosAVS\obj\Debug\netcoreapp3.1\MetodosAVS.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosAVS\obj\Debug\netcoreapp3.1\MetodosAVS.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosAVS\obj\Debug\netcoreapp3.1\MetodosAVS.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosAVS\obj\Debug\netcoreapp3.1\MetodosAVS.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\MetodosAVS\obj\Debug\netcoreapp3.1\MetodosAVS.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TiposEVariaveis\bin\Debug\netcoreapp3.1\TiposEVariaveis.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TiposEVariaveis\bin\Debug\netcoreapp3.1\TiposEVariaveis.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TiposEVariaveis\bin\Debug\netcoreapp3.1\TiposEVariaveis.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TiposEVariaveis\bin\Debug\netcoreapp3.1\TiposEVariaveis.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TiposEVariaveis\bin\Debug\netcoreapp3.1\TiposEVariaveis.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TiposEVariaveis\bin\Debug\netcoreapp3.1\TiposEVariaveis.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TiposEVariaveis\obj\Debug\netcoreapp3.1\TiposEVariaveis.csprojAssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TiposEVariaveis\obj\Debug\netcoreapp3.1\TiposEVariaveis.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TiposEVariaveis\obj\Debug\netcoreapp3.1\TiposEVariaveis.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TiposEVariaveis\obj\Debug\netcoreapp3.1\TiposEVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TiposEVariaveis\obj\Debug\netcoreapp3.1\TiposEVariaveis.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TiposEVariaveis\obj\Debug\netcoreapp3.1\TiposEVariaveis.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\TiposEVariaveis\obj\Debug\netcoreapp3.1\TiposEVariaveis.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ModificarLista\bin\Debug\netcoreapp3.1\ModificarLista.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ModificarLista\bin\Debug\netcoreapp3.1\ModificarLista.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ModificarLista\bin\Debug\netcoreapp3.1\ModificarLista.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ModificarLista\bin\Debug\netcoreapp3.1\ModificarLista.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ModificarLista\bin\Debug\netcoreapp3.1\ModificarLista.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ModificarLista\bin\Debug\netcoreapp3.1\ModificarLista.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ModificarLista\obj\Debug\netcoreapp3.1\ModificarLista.csprojAssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ModificarLista\obj\Debug\netcoreapp3.1\ModificarLista.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ModificarLista\obj\Debug\netcoreapp3.1\ModificarLista.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ModificarLista\obj\Debug\netcoreapp3.1\ModificarLista.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ModificarLista\obj\Debug\netcoreapp3.1\ModificarLista.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ModificarLista\obj\Debug\netcoreapp3.1\ModificarLista.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\ModificarLista\obj\Debug\netcoreapp3.1\ModificarLista.genruntimeconfig.cache
