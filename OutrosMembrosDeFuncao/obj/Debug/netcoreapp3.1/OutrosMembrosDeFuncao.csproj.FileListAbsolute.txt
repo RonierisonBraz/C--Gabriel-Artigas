@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OutrosMembrosDeFuncao\bin\Debug\netcoreapp3.1\OutrosMembrosDeFuncao.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OutrosMembrosDeFuncao\bin\Debug\netcoreapp3.1\OutrosMembrosDeFuncao.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OutrosMembrosDeFuncao\bin\Debug\netcoreapp3.1\OutrosMembrosDeFuncao.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OutrosMembrosDeFuncao\bin\Debug\netcoreapp3.1\OutrosMembrosDeFuncao.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OutrosMembrosDeFuncao\bin\Debug\netcoreapp3.1\OutrosMembrosDeFuncao.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OutrosMembrosDeFuncao\bin\Debug\netcoreapp3.1\OutrosMembrosDeFuncao.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OutrosMembrosDeFuncao\obj\Debug\netcoreapp3.1\OutrosMembrosDeFuncao.csproj.AssemblyReference.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OutrosMembrosDeFuncao\obj\Debug\netcoreapp3.1\OutrosMembrosDeFuncao.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OutrosMembrosDeFuncao\obj\Debug\netcoreapp3.1\OutrosMembrosDeFuncao.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OutrosMembrosDeFuncao\obj\Debug\netcoreapp3.1\OutrosMembrosDeFuncao.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OutrosMembrosDeFuncao\obj\Debug\netcoreapp3.1\OutrosMembrosDeFuncao.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OutrosMembrosDeFuncao\obj\Debug\netcoreapp3.1\OutrosMembrosDeFuncao.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\OutrosMembrosDeFuncao\obj\Debug\netcoreapp3.1\OutrosMembrosDeFuncao.genruntimeconfig.cache
