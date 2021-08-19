@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaDeMetodo", "Sobre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutrosMembrosDeFuncao", "OutrosMembrosDeFuncao\OutrosMembrosDeFuncao.csproj", "{83957072-1C3B-41E2-818B-086461E25AD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrizes", "Matrizes\Matrizes.csproj", "{376A02F6-4162-4B75-A0BB-69725A8C4074}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -229,6 +231,10 @@ Global
 		{83957072-1C3B-41E2-818B-086461E25AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83957072-1C3B-41E2-818B-086461E25AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83957072-1C3B-41E2-818B-086461E25AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376A02F6-4162-4B75-A0BB-69725A8C4074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376A02F6-4162-4B75-A0BB-69725A8C4074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376A02F6-4162-4B75-A0BB-69725A8C4074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376A02F6-4162-4B75-A0BB-69725A8C4074}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -270,6 +276,7 @@ Global
 		{232B7C3D-472E-4989-AC86-BB86355D1BEF} = {40F3DCC2-A3AE-497E-86B6-15F08CE0976F}
 		{C4C518C4-0511-4BC1-B71A-59A4D59A752A} = {40F3DCC2-A3AE-497E-86B6-15F08CE0976F}
 		{83957072-1C3B-41E2-818B-086461E25AD5} = {40F3DCC2-A3AE-497E-86B6-15F08CE0976F}
+		{376A02F6-4162-4B75-A0BB-69725A8C4074} = {40F3DCC2-A3AE-497E-86B6-15F08CE0976F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B93A7E55-9FAC-4316-9013-E01AB44D7454}
