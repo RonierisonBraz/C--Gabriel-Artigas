@@ -1,0 +1,12 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Corresponder\bin\Debug\netcoreapp3.1\Corresponder.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Corresponder\bin\Debug\netcoreapp3.1\Corresponder.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Corresponder\bin\Debug\netcoreapp3.1\Corresponder.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Corresponder\bin\Debug\netcoreapp3.1\Corresponder.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Corresponder\bin\Debug\netcoreapp3.1\Corresponder.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Corresponder\bin\Debug\netcoreapp3.1\Corresponder.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Corresponder\obj\Debug\netcoreapp3.1\Corresponder.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Corresponder\obj\Debug\netcoreapp3.1\Corresponder.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Corresponder\obj\Debug\netcoreapp3.1\Corresponder.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Corresponder\obj\Debug\netcoreapp3.1\Corresponder.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Corresponder\obj\Debug\netcoreapp3.1\Corresponder.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\Corresponder\obj\Debug\netcoreapp3.1\Corresponder.genruntimeconfig.cache
