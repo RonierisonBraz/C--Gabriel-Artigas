@@ -1,0 +1,13 @@
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DelegadosELambda\bin\Debug\netcoreapp3.1\DelegadosELambda.exe
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DelegadosELambda\bin\Debug\netcoreapp3.1\DelegadosELambda.deps.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DelegadosELambda\bin\Debug\netcoreapp3.1\DelegadosELambda.runtimeconfig.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DelegadosELambda\bin\Debug\netcoreapp3.1\DelegadosELambda.runtimeconfig.dev.json
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DelegadosELambda\bin\Debug\netcoreapp3.1\DelegadosELambda.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DelegadosELambda\bin\Debug\netcoreapp3.1\DelegadosELambda.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DelegadosELambda\obj\Debug\netcoreapp3.1\DelegadosELambda.AssemblyInfoInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DelegadosELambda\obj\Debug\netcoreapp3.1\DelegadosELambda.AssemblyInfo.cs
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DelegadosELambda\obj\Debug\netcoreapp3.1\DelegadosELambda.csproj.CoreCompileInputs.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DelegadosELambda\obj\Debug\netcoreapp3.1\DelegadosELambda.dll
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DelegadosELambda\obj\Debug\netcoreapp3.1\DelegadosELambda.pdb
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DelegadosELambda\obj\Debug\netcoreapp3.1\DelegadosELambda.genruntimeconfig.cache
+C:\Users\r.braz.da.silva\Documents\Cursos\C#-Gabriel-Artigas\CursoLinguagemCshape\DelegadosELambda\obj\Debug\netcoreapp3.1\DelegadosELambda.csproj.AssemblyReference.cache
