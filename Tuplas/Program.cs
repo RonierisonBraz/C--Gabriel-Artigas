@@ -10,7 +10,9 @@ namespace Tuplas
             Console.WriteLine($"a Soma de {t1.Count} elementos é {t1.Sum}.");
 
             (int Cod, string Produto, double Valor) p1 = (100, "mouse", 45.9);
-            Console.WriteLine($"O codigo do produto é {p1.Cod}, nome do produto {p1.Produto} e seu valor é:       {p1.Valor}.");
+            Console.WriteLine($"O codigo do produto é {p1.Cod}, nome do produto 
+            
+            {p1.Produto} e seu valor é:       {p1.Valor}.");
             
         }
     }
