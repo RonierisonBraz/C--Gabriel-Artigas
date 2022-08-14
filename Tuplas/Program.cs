@@ -11,6 +11,8 @@ namespace Tuplas
 
             (int Cod, string Produto, double Valor) p1 = (100, "mouse", 45.9);
             Console.WriteLine($"O codigo do produto é {p1.Cod}, nome do produto 
+
+            
             
             {p1.Produto} e seu valor é:       {p1.Valor}.");
             
